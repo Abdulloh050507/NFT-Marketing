@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SB';
+    src: url(../fonts/SpaceMono-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'SR';
+    src: url(../fonts/SpaceMono-Regular.ttf);
+}
